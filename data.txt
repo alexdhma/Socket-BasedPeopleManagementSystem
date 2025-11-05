@@ -1,0 +1,13 @@
+John|43|123 Apple street|514-3452
+Katya| 26|49 Queen Mary Road|514-7654 
+Ahmad|91|1888 Pepper Lane|
+|32|456 Penny Lane|426-6875
+Natty|32 lane
+bert|127|Happy Lane|901-3245
+bip|101|Happy Lane|4906-3245
+John|45|Bob Street|514-2344
+John|45|Bob Street|514-2344
+david||394-6789
+Bob| 26|123 Doop Road| 514-3411
+Wan|-17|123 Street |514-6789
+Bob| 26|123 Doop Road| 514-3411
